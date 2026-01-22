@@ -50,6 +50,8 @@ C:\melanoma_attacks\checkpoint-12670
 ```bash
 pip install -r requirements.txt
 
+---
+
 ### Рекомендуемая структура данных
 В ноутбуках используется следующая структура директорий:
 balanced_Image/
