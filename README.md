@@ -46,11 +46,6 @@ C:\melanoma_attacks\checkpoint-12670
 
 Рекомендуемая версия Python: **3.10+**
 
-### Установка зависимостей
-```bash
-pip install -r requirements.txt
-
----
 
 ## Рекомендуемая структура данных
 В ноутбуках используется следующая структура директорий:
@@ -101,3 +96,9 @@ isic_1000_fgsm/
 
 isic_1000_pgd/
 
+
+### Установка зависимостей
+```bash
+pip install -r requirements.txt
+
+---
